@@ -21,6 +21,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Ionic](https://img.shields.io/badge/-Ionic-007ACC?style=flat-square&logo=ionic)
+![Laravel](https://img.shields.io/badge/-Laravel-563D7C?style=flat-square&logo=laravel)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Automate](https://img.shields.io/badge/-Automate-darkblue?style=flat-square&logo=automate)
