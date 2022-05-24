@@ -1,14 +1,12 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=fyalmeida" alt="fyalmeida" /></p>
 
-### Hi there 👋 I'm Fabricio 👨‍💻
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Fabricio</h1>
 
 - Currently a Frontend developer with AngularJS, I started this walk in 2019 and I'm loving it.
 - 🔭 I’m currently working at Bksoft.
 - 🎯 focus on success
 
 ## ⚡FOCO NO SUCESSO🚀
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=fyalmeida)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fabricio-almeida-11b3721bb/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/almeida.fy//) 
