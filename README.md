@@ -1,4 +1,4 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="[https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME](https://repository-images.githubusercontent.com/495949977/3615aa59-e9aa-40f2-9bc8-e2c39e8b3bdc)">
 
 ### Hi there 👋 I'm Fabricio 👨‍💻
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
