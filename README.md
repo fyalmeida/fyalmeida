@@ -1,10 +1,12 @@
-<img src="[https://repository-images.githubusercontent.com/495949977/3615aa59-e9aa-40f2-9bc8-e2c39e8b3bdc]">
+<p align="left"><img src="https://komarev.com/ghpvc/?username=fyalmeida" alt="fyalmeida" /></p>
 
 ### Hi there 👋 I'm Fabricio 👨‍💻
 
-- Currently a Frontend developer with AngularJS.
+- Currently a Frontend developer with AngularJS, I started this walk in 2019 and I'm loving it.
 - 🔭 I’m currently working at Bksoft.
-- 🎯 No inicio de 2018 iniciei minha caminhada no desenvolvimento
+- 🎯 focus on success
+
+## ⚡FOCO NO SUCESSO🚀
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=fyalmeida)
 
