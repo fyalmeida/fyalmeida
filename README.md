@@ -9,7 +9,7 @@
 ## ⚡FOCO NO SUCESSO🚀
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fabricio-almeida-11b3721bb/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/almeida.fy//) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/fyk1ng/) 
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/fabricio.yan.9/)
 [<img src = "https://img.shields.io/badge/steam-black.svg?&style=for-the-badge&logo=steam&logoColor=white">](https://steamcommunity.com/id/efeipisulon)
 
