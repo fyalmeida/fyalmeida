@@ -1,36 +1,40 @@
-<p align="left"><img src="https://komarev.com/ghpvc/?username=fyalmeida" alt="fyalmeida" /></p>
+# Fabricio Yan Correa de Almeida
 
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Fabricio</h1>
+**Desenvolvedor Full Stack | IA Aplicada e Automação**
 
-- Currently a Frontend developer with AngularJS, I started this walk in 2019 and I love it.
-- 🔭 I’m currently working at <a href="https://bksoft.com.br/">Bksoft.</a>
-- 🎯 focus on success
+Especialista em Angular, desenvolvedor de software desde 2020 e sócio do ChatPolos. Trabalho na evolução de plataformas de comunicação, atendimento e CRM, conectando interfaces, APIs e automações com inteligência artificial.
 
-## ⚡FOCO NO SUCESSO🚀
+## Atuação técnica
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fabricio-almeida-11b3721bb/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/fabricioalmeida_04/) 
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/fabricio.yan.9/)
-[<img src = "https://img.shields.io/badge/steam-black.svg?&style=for-the-badge&logo=steam&logoColor=white">](https://steamcommunity.com/id/efeipisulon)
+- **Frontend:** Angular, TypeScript e PrimeNG.
+- **Backend e integrações:** PHP, Laravel, APIs e WhatsApp.
+- **IA aplicada e orquestração:** LangChain, LangGraph e Temporal.
+- **Processamento assíncrono:** workers, filas RabbitMQ e diagnóstico de falhas.
+- **Infraestrutura e entrega:** AWS EC2, logs, Git, GitHub e Laravel Forge.
 
-## 🚀💻 Technologies & Tools
+Utilizo agentes de IA como apoio ao desenvolvimento, com revisão técnica do código, testes e validação das alterações.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Ionic](https://img.shields.io/badge/-Ionic-007ACC?style=flat-square&logo=ionic)
-![Laravel](https://img.shields.io/badge/-Laravel-563D7C?style=flat-square&logo=laravel)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Automate](https://img.shields.io/badge/-Automate-darkblue?style=flat-square&logo=automate)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+## Experiência e projetos
 
-## ⚡ GitHub Stats
+### ChatPolos · Sócio e Desenvolvedor Full Stack
+**Março de 2025 – atual**
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=fyalmeida&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fyalmeida&hide=TeX&layout=compact)
+Desenvolvimento e sustentação de plataforma de comunicação, atendimento e CRM com integração ao WhatsApp e automações inteligentes. Atuação em frontend, backend, fluxos com IA, workers, mensageria e diagnóstico de aplicações em AWS.
+
+### Bksoft Tecnologia · Desenvolvedor Frontend Angular
+**2020 – 2025**
+
+- **BkChat:** plataforma de comunicação, atendimento e CRM.
+- **Eleitto:** sistema de gestão política.
+- Desenvolvimento e manutenção de sites e landing pages.
+
+## Formação
+
+**Análise e Desenvolvimento de Sistemas · Estácio**  
+Cursando desde outubro de 2025.
+
+## Contato
+
+Cuiabá, Mato Grosso, Brasil.
+
+[LinkedIn](https://www.linkedin.com/in/fabricioyancalmeida/)
